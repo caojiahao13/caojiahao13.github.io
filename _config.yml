@@ -1,0 +1,7 @@
+layout: default
+title: "Jiahao Cao's homepage"
+description: Record and share
+show_downloads: false
+use_math: true
+google_analytics: UA-161722476-1
+theme: jekyll-theme-cayman
