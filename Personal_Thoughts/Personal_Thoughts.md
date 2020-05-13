@@ -13,7 +13,7 @@ theme: jekyll-theme-cayman
 
 我能做的就是选择自己和哪些部分相处。
 
-Most organizations are complex and many times even some stupid part have their reason to exist.
+Most organizations are complex and many times even some stupid parts have their reason to exist.
 
 What I can do is to spend my time with the part I like.
 
@@ -26,4 +26,4 @@ What I can do is to spend my time with the part I like.
 
 Talk is cheap. Don't take it too seriously.
 
-Not all people take responsible to their words.
+Not all people take responsibilities to their words.

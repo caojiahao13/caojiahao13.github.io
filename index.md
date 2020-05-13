@@ -14,7 +14,7 @@ theme: jekyll-theme-cayman
 Some [useful tools](./myTools/myTools.html) I used.
 
 ---
-Some [personal thoughts](./Personal_Thoughts/Personal_Thoughts.html)
+Some [personal thoughts](./Personal_Thoughts/Personal_Thoughts.html).
 
 ---
 Contact Me:
