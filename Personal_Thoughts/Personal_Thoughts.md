@@ -11,11 +11,11 @@ theme: jekyll-theme-cayman
 
 不由得回顾一下自己的生活，感觉最近一年过的有些功利了，还记得初心吗？
 
-最初drive我去读phd的是我想要understand this world。 我一直认为有意义的领域分为两种：理解人的，和理解世界的。因此神经科学，数学和物理是我认为最有“意义”的学习。
+最初drive我去读phd的是我想要 understand this world。 我一直认为有意义的领域分为两种：理解人的，和理解世界的。因此神经科学，数学和物理是我认为最有“意义”的学习。
 
 至于统计学，Bayeian statistics是我的动机之一。 它给我直观的感受是一种“认知”方式，它很接近人类学习和更新认知的过程，所以我觉得不管是作为一个工具，还是作为一个哲学理念，它都有可能有所作为。当然我需要承认，最近几年ML大火也是我选择stat的原因之一。
 
-总之，我和自己说，不用太着急了，想想五年前的你，你难道对自己要求过什么吗？随心而已。
+总之，我和自己说，不用太着急了，想想五年前的你，你对自己要求过什么吗？随心而已。
 
 Keep everything away from your mind and just do your science.
 
@@ -42,3 +42,28 @@ What I can do is to spend my time with the part I like.
 Talk is cheap. Don't take it too seriously.
 
 Not all people take responsibilities to their words.
+
+> 2020-8-27
+
+* 1
+
+假想我晚一年上学，当时又决定出国的话，我也要面对这种情景：花费时间和金钱交流和暑期科研，同时完成GRE和托福考试，但是在最后一步却因为疫情原因无法拿到收获的果实。
+
+对于我这种不是钱不多做事常常缺少plan B的人来说，这可就十分的难受了。
+
+有时候还是感叹人力有限，尽人事听天命。
+
+In both computation and life, global optimal always is hard to reach. 
+
+* 2
+
+有时候我会想，我是不是错过了一些东西？我将来会后悔吗？如果现在停下来，值得吗？
+
+或者，我是有些偏执了。
+
+Some choices means taking responsibility for someone. Am I missing something because I keep telling myself I'm not ready? Or I just have no guts to go for it? 
+
+I'm so afraid to be shame and losing opportunities. I don't know what risk is affordable for me and is it worth?
+
+
+
