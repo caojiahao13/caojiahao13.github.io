@@ -5,6 +5,31 @@ description: Personal_Thoughts
 theme: jekyll-theme-cayman
 ---
 
+> 2020-8-27
+
+* 1
+
+假想我晚一年上学，当时又决定出国的话，我也要面对这种情景：花费时间和金钱交流和暑期科研，同时完成GRE和托福考试，但是在最后一步却因为疫情原因无法拿到收获的果实。
+
+对于我这种不是钱不多做事常常缺少plan B的人来说，这可就十分的难受了。
+
+有时候还是感叹人力有限，尽人事听天命。
+
+In both computation and life, global optimal always is hard to reach. 
+
+* 2
+
+有时候我会想，我是不是错过了一些东西？我将来会后悔吗？如果现在停下来，值得吗？
+
+或者，我是有些偏执了。
+
+Some choices means taking responsibility for someone. Am I missing something because I keep telling myself I'm not ready? Or I just have no guts to go for it? 
+
+I'm so afraid to be shame and losing opportunities. I don't know what risk is affordable for me and is it worth?
+
+
+
+
 > 2020-7-02
 
 今天看了阿里数学竞赛某金牌的人生轨迹： P大本科毕业后两年完成Berkeley的math phd。今年刚毕业，去了一个hedge fund工作。我又一次想到了到了功利思想也许没那么必要。
@@ -42,28 +67,5 @@ What I can do is to spend my time with the part I like.
 Talk is cheap. Don't take it too seriously.
 
 Not all people take responsibilities to their words.
-
-> 2020-8-27
-
-* 1
-
-假想我晚一年上学，当时又决定出国的话，我也要面对这种情景：花费时间和金钱交流和暑期科研，同时完成GRE和托福考试，但是在最后一步却因为疫情原因无法拿到收获的果实。
-
-对于我这种不是钱不多做事常常缺少plan B的人来说，这可就十分的难受了。
-
-有时候还是感叹人力有限，尽人事听天命。
-
-In both computation and life, global optimal always is hard to reach. 
-
-* 2
-
-有时候我会想，我是不是错过了一些东西？我将来会后悔吗？如果现在停下来，值得吗？
-
-或者，我是有些偏执了。
-
-Some choices means taking responsibility for someone. Am I missing something because I keep telling myself I'm not ready? Or I just have no guts to go for it? 
-
-I'm so afraid to be shame and losing opportunities. I don't know what risk is affordable for me and is it worth?
-
 
 
