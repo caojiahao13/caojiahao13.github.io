@@ -6,7 +6,7 @@ theme: jekyll-theme-cayman
 ---
 
 
-I am a second year Ph.D. student at Renmin Univeristy, China.
+I am a second year Ph.D. student at Renmin Univeristy, China.  I'm interested in Bayesian Statistics, Statistical Learning Method and Theory, Reinforcement Learning, Graphical Models and approximation Methods. 
 
 
 ### Learning recored
