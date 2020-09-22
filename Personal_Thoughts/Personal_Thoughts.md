@@ -5,6 +5,11 @@ description: Personal_Thoughts
 theme: jekyll-theme-cayman
 ---
 
+> 2020-9-22
+
+For people at the age of 17-27:
+
+If you don't know how to make a choice, then always choose a difficult one with promising reward.
 
 > 2020-9-3
 
