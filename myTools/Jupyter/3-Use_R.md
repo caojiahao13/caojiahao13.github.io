@@ -12,6 +12,7 @@ Packages to install:
 ```
 install.packages(c('repr', 'IRdisplay', 'evaluate', 'crayon', 'pbdZMQ', 'devtools', 'uuid', 'digest'))
 
+install.packages('devtools')
 devtools::install_github('IRkernel/IRkernel')
 ```
 
@@ -21,6 +22,6 @@ devtools::install_github('IRkernel/IRkernel')
 
 ### Install for all users
 
-```IRkernel:`:installspec(user = FALSE)```
+```IRkernel:installspec(user = FALSE)```
 
 It may take some time. After this, hopefully you can find ```R``` in the same place you find python or conda environments.
