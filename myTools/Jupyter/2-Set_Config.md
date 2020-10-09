@@ -21,6 +21,7 @@ Install nb_conda with command line:
 
 ```
 conda install nb_conda
+conda install -c conda-forge jupyter_contrib_nbextensions
 ```
 
 Then all environments in conda can be used and there will be a ```conda``` tag at the top of Jupyter notebook page.
