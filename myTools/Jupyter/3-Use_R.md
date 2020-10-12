@@ -10,9 +10,9 @@ theme: jekyll-theme-cayman
 Packages to install:
 
 ```
-install.packages(c('repr', 'IRdisplay', 'evaluate', 'crayon', 'pbdZMQ', 'devtools', 'uuid', 'digest'))
-
 install.packages('devtools')
+install.packages(c('repr', 'IRdisplay', 'evaluate', 'crayon', 'pbdZMQ', 'uuid', 'digest'))
+
 devtools::install_github('IRkernel/IRkernel')
 ```
 
