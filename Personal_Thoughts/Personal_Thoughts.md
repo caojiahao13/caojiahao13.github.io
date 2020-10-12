@@ -5,6 +5,10 @@ description: Personal_Thoughts
 theme: jekyll-theme-cayman
 ---
 
+> 2020-10-12
+
+I respect people who are fighting for better lives and I give them my best wishes.
+
 > 2020-9-22
 
 For people at the age of 17-27:
