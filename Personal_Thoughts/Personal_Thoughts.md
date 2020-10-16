@@ -5,6 +5,10 @@ description: Personal_Thoughts
 theme: jekyll-theme-cayman
 ---
 
+>2020-10-16
+
+I think, as for socializing, that I don't enjoy the way that most people have in my country.
+
 > 2020-10-12
 
 I respect people who are fighting for better lives and I give them my best wishes.
