@@ -11,3 +11,4 @@ theme: jekyll-theme-cayman
 * [VPN and Hiding IP](./VPNIP/VPNIP.html)
 * [Use google cloaboratory to train your ML algorithm](./Google_Colab/Google_Colab.html)
 * [Nice apps](./Nice_Apps.html)
+* A helpful doc for managing SSH: https://www.freecodecamp.org/news/how-to-manage-multiple-ssh-keys/
